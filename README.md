@@ -2,7 +2,7 @@ ZDNS
 ====
 
 [![Build Status](https://travis-ci.org/zmap/zdns.svg?branch=master)](https://travis-ci.org/zmap/zdns)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zmap/zdns)](https://goreportcard.com/report/github.com/zmap/zdns)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Rich5/zdns)](https://goreportcard.com/report/github.com/Rich5/zdns)
 
 ZDNS is a command-line utility that provides high-speed DNS lookups. For
 example, the following will perform MX lookups and a secondary A lookup for the
@@ -17,7 +17,7 @@ Install
 
 ZDNS can be installed by running:
 
-	go get github.com/zmap/zdns/zdns
+	go get github.com/Rich5/zdns/zdns
 
 
 Usage

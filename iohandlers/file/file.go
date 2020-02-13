@@ -7,7 +7,7 @@ import (
 
 	"github.com/miekg/dns"
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zdns"
+	"github.com/Rich5/zdns"
 )
 
 type InputHandler struct {

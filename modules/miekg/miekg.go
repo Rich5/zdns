@@ -13,8 +13,8 @@ import (
 
 	"github.com/miekg/dns"
 	"github.com/zmap/go-iptree/blacklist"
-	"github.com/zmap/zdns"
-	"github.com/zmap/zdns/cachehash"
+	"github.com/Rich5/zdns"
+	"github.com/Rich5/zdns/cachehash"
 )
 
 var typeNames = map[uint16]string{

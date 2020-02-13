@@ -15,8 +15,8 @@
 package alookup
 
 import (
-	"github.com/zmap/zdns"
-	"github.com/zmap/zdns/modules/miekg"
+	"github.com/Rich5/zdns"
+	"github.com/Rich5/zdns/modules/miekg"
 	"reflect"
 	"testing"
 )

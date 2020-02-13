@@ -1,4 +1,4 @@
-module github.com/zmap/zdns
+module github.com/Rich5/zdns
 
 go 1.13
 
